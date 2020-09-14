@@ -1,2 +1,2 @@
 # rocketshoes
-An experimental shoes e-commerce
+An experimental footwear e-commerce
